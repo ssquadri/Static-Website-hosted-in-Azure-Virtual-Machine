@@ -72,6 +72,16 @@ Here is a Step-By-Step Process
 **Step-7 Now copy your website HTML code file and paste in the same directory of default website**
 
 
+
+![Code for webiste.txt](https://github.com/ssquadri/Static-Website-hosted-in-Azure-Virtual-Machine/blob/d8074b33e4f2a76790c709cc29b8faa936eb9398/Code%20for%20webiste.txt)
+
+
+
+![Landing page.htm](https://github.com/ssquadri/Static-Website-hosted-in-Azure-Virtual-Machine/blob/d8074b33e4f2a76790c709cc29b8faa936eb9398/Landing%20page.htm)
+
+
+
+
 **Step-8 Now click browse and you will see your custom website appear** 
 
 
